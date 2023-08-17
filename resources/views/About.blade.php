@@ -5,7 +5,7 @@
     <!-- Full Width Image Section -->
     <section class="full-width-image">
         <!-- Replace the URL with the actual photo of services -->
-        <img src="image/about.11.jpg" alt="Services Image" width="100%" height="700">
+        <img src="image/1.jpg" alt="Services Image" width="100%" height="700">
     </section>
 
     <!-- Services Description Section -->

@@ -12,7 +12,10 @@
             <ul class="p-4 bg-light">
                 <li class="h3 p-4"><strong>Address:</strong> Bajura, Martadi, Badimalika Municipality, 08</li>
                 <li class="h3 p-4"><strong>Email:</strong> Baniyahotel99@gmail.com</li>
-                <li class="h3 p-4"><strong>Phone:</strong> 9848437358,9848609026</li>
+                <li class="h3 p-4"><strong>Mobile Number:</strong> 9848437358,9848609026</li>
+                <li class="h3 p-4"><strong>Telephone:</strong> 097-541089</li>
+
+
             </ul>
         </div>
     </div>
